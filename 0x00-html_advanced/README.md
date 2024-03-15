@@ -160,4 +160,9 @@ How to use HTML tags to structure a web page
 
 # 40. Add a iframe example in the styleguide
 . Add an iframe example
-Author
+
+# Author
+. Ijeje Hephzibah Owoma (@hephzibahij) - ![image](https://github.com/hephzibahij/alx-frontend/assets/128981877/87f8ec47-6191-4c41-a6a6-fcc4f14cdce3)
+![image](https://github.com/hephzibahij/alx-frontend/assets/128981877/518876c3-1665-4f91-8231-27c708965d45)
+
+
