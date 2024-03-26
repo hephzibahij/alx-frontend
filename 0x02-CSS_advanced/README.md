@@ -1,4 +1,5 @@
 # 0x02. Advanced CSS
+![image](https://github.com/hephzibahij/alx-frontend/assets/128981877/276228aa-343a-40b0-a775-cab48054297c)
 
 # Description:bulb:
 How to create a website, add HTML to it, and add CSS to it
